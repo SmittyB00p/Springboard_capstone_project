@@ -1,2 +1,5 @@
-# newrepo
-A new repo
+newrepo
+==========
+
+A new **repo!**
+----------
