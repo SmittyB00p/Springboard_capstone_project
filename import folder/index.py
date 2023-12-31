@@ -11,7 +11,8 @@ def create_num_list(num=1):
         num_list.append(num)
         num -= 1
 
-    return num_list
+    reversed_list = sorted(num_list)
+    return reversed_list
 
 
 print(create_num_list(10))
